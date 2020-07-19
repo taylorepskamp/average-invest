@@ -20,6 +20,6 @@ This project evolved out of my curiousity with dollar cost averaging. Obviously 
 ## Future Features
 
 - Adding a date range slider, so that a user can choose the number of years invested and when
-- Adding a graph of the performance over selected time period
-- Adding a benchmark stock to this performance graph
-- Adding other foreign stock exchanges
+- Adding a graph of the stock's performance over the selected time period
+- Adding other stock exchanges
+- Adding an API to search and verify the stock's spelling
