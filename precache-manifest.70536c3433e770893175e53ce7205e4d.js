@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0d50942126ff4ae910c9f6c4075bcaf3",
+    "revision": "438426631092b2fde0026ab38141b538",
     "url": "/average-invest/index.html"
   },
   {
-    "revision": "f5d58e452d55a050672c",
+    "revision": "467560d708addcbe224a",
     "url": "/average-invest/static/css/main.51c80ab6.chunk.css"
   },
   {
@@ -16,12 +16,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/average-invest/static/js/2.18f4fd6f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f5d58e452d55a050672c",
-    "url": "/average-invest/static/js/main.e508d722.chunk.js"
+    "revision": "467560d708addcbe224a",
+    "url": "/average-invest/static/js/main.8571b8a9.chunk.js"
   },
   {
     "revision": "7a6956e196ccd2e4ccc8856708b02847",
-    "url": "/average-invest/static/js/main.e508d722.chunk.js.LICENSE.txt"
+    "url": "/average-invest/static/js/main.8571b8a9.chunk.js.LICENSE.txt"
   },
   {
     "revision": "4542e3b7a7612d518f50",
